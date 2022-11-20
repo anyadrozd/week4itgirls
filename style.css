@@ -1,0 +1,33 @@
+.menu
+{
+    text-decoration: none;
+    color: #090909;
+    padding: 10px;
+    font-family: 'DM Sans', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 30px;
+    }
+.menu:hover{
+        text-decoration: underline;
+        font-family: 'DM Sans', Times, serif;
+    }
+    .button
+    {background-color: #FF9C08;
+        border-radius: 10px;
+        color: #090909;
+    }
+    .name
+    {color: #090909;
+    font-family: 'DM Sans', sans-serif , serif;
+    }
+    .text
+    {font-family: 'Roboto', sans-serif, serif;
+    font-weight: bolder;
+    font-size: large;
+    }
+    .texttoo
+    {font-family: 'DM Sans';
+    font-style: normal;
+    }
